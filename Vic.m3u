@@ -651,3 +651,21 @@ https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hls/4KHD/
 http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 #EXTINF:-1 group-title="上海台" tvg-id="上海纪实人文频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0503/smallb11e8a694bbc5dcbbbb25ba716462574.jpg",上海纪实人文频道
 http://120.196.232.57:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
+#EXTINF:-1 group-title="China",CCTV4K
+http://112.84.131.28:80/hlslive-tx-cdn.ysp.cctv.cn/512/2024081302.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China",CCTV4K
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 group-title="China",CCTV4K
+http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="China",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+#EXTINF:-1 group-title="China",CCTV4K
+http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="China",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="China",CCTV8K
+http://112.84.131.28:80/hlslive-tx-cdn.ysp.cctv.cn/512/2020603421.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China",CCTV8K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+#EXTINF:-1 group-title="China",CCTV8K
+http://159.75.85.63:8654/xx8k50fps.php
